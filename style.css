@@ -1,0 +1,34 @@
+img{
+    height: 200px;
+}
+html{
+    background-image: linear-gradient(to left,white,rgb(25, 126, 241));
+}
+h1{
+    color: rgb(0, 0, 0);
+    
+}
+
+nav{
+
+    font-size:10px
+
+}
+
+header{
+    box-shadow: inset;
+    background-color: rgb(121, 193, 219);
+    
+}
+
+button{
+    background-color: rgb(230, 117, 117);
+    color: black;
+    font-size:10;
+    border:12cm;
+    color: black;
+
+}
+dialog{
+    padding: 20px;
+}
